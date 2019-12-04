@@ -16,5 +16,4 @@ class Solution {
     }
 }
 
-
 Solution.init().twoSum([2,3,4], 6)
